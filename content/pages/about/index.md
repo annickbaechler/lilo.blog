@@ -1,13 +1,13 @@
 +++
-title = "About me"
+title = "Emma und Annick"
 draft = false
-description = ""
 image = ""
+description = "Die Autoren dieser Posts sind Emma und Annick"
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Kontakt
 
-mail@example.org
+annick.baechler@stud.gyminterlaken.ch
 
-Here should be some info about me...
+emma.balsiger@stud.gyminterlaken.ch
