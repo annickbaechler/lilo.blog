@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = "Die Autoren dieser Posts sind Emma und Annick"
 +++
-![](/img/default-author.jpg)
+![Emma und Annick](/img/default-author.jpg "Reportage")
 
 ## Kontakt
 
