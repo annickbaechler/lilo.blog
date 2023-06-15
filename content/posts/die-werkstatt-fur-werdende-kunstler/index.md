@@ -1,7 +1,7 @@
 +++
 title = "Die Werkstatt für werdende Künstler"
 date = "2023-06-15"
-draft = true
+draft = false
 pinned = false
 image = "https://eduwo.ch/de/hoehere-fachschule/sfgb-b-schule-fuer-gestaltung-bern-und-biel"
 description = "An der Fachschule für Gestaltung arbeiten die Schüler*innen an diversen Projekten, die ihnen später zum Erfolg in einem künstlerischen Beruf verhelfen. Dabei werden sie von Lehrpersonen begleitet, die sie dabei unterstützen und ihnen gute Berufschancen ermöglichen. Die kreative Lernumgebung ist dabei die perfekte Atmosphäre, um ihre Talente zu entdecken und weiterzuentwickeln.  "
