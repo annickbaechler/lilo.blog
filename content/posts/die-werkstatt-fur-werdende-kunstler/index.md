@@ -9,7 +9,7 @@ footnotes = "Text von Emma und Annick"
 +++
 ## Der Vorkurs Kunst und Design bietet kunstbegeisterten Schüler*innen eine hilfreiche Ausbildung und somit eine sichere Zukunft.  
 
-<>
+
 
 #### An der Fachschule für Gestaltung arbeiten die Schüler*innen an diversen Projekten, die ihnen später zum Erfolg in einem künstlerischen Beruf verhelfen. Dabei werden sie von Lehrpersonen begleitet, die sie dabei unterstützen und ihnen gute Berufschancen ermöglichen. Die kreative Lernumgebung ist dabei die perfekte Atmosphäre, um ihre Talente zu entdecken und weiterzuentwickeln.
 
